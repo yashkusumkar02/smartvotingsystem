@@ -17,7 +17,7 @@ A brief explanation on the basic workflow of the application.
 
 ## Setting up the development environment
 
-## Requirements
+### Requirements
 -Node.js
 -Truffle
 -Ganache (Cli)
