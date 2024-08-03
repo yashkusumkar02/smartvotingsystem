@@ -1,6 +1,11 @@
 # Decentralised Voting System (Namaste-Nexus)
 A decentralised voting system based on Ethereum blockchain technology.
 
+## System Working Video: 
+
+https://github.com/user-attachments/assets/01fedd14-0ef5-4f0c-9c06-9f83a384005a
+
+
 ## System Workflow
 A brief explanation on the basic workflow of the application.
 
